@@ -1,12 +1,13 @@
 languageCode = "en-us"
 title = "Coleman-Derr Lab"
-baseurl = "http://example.org/"
+baseurl = "https://dcolemanderr.github.io/colemanderrlab/"
 SectionPagesMenu = "main"
 
 paginate = 5
 canonifyurls = true
 
 [params]
+  baseurl = "https://dcolemanderr.github.io/colemanderrlab/"
   description = "this is my description"
   cover = "images/cover.jpg"
   author = "Devin!"
@@ -28,4 +29,3 @@ canonifyurls = true
 [taxonomies]
   category = "categories"
   tag = "tags"
-
