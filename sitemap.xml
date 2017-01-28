@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.org/research/sorghum/</loc>
+    <loc>https://dcolemanderr.github.io/colemanderrlab/research/sorghum/</loc>
     <lastmod>2017-01-28T10:51:49-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2017-01-28T10:51:49-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/research/</loc>
+    <loc>https://dcolemanderr.github.io/colemanderrlab/</loc>
     <lastmod>2017-01-28T10:51:49-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/research/</loc>
+    <loc>https://dcolemanderr.github.io/colemanderrlab/tags/research/</loc>
     <lastmod>2017-01-28T10:51:49-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://dcolemanderr.github.io/colemanderrlab/research/</loc>
+    <lastmod>2017-01-28T10:51:49-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://dcolemanderr.github.io/colemanderrlab/tags/</loc>
     <priority>0</priority>
   </url>
   

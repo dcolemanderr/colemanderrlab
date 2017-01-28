@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Coleman-Derr Lab</title>
-    <link>http://example.org/tags/research/index.xml</link>
+    <link>https://dcolemanderr.github.io/colemanderrlab/tags/research/index.xml</link>
     <description>Recent content in Research on Coleman-Derr Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://example.org/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dcolemanderr.github.io/colemanderrlab/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sorghum</title>
-      <link>http://example.org/research/sorghum/</link>
+      <link>https://dcolemanderr.github.io/colemanderrlab/research/sorghum/</link>
       <pubDate>Sat, 28 Jan 2017 10:51:49 -0800</pubDate>
       
-      <guid>http://example.org/research/sorghum/</guid>
+      <guid>https://dcolemanderr.github.io/colemanderrlab/research/sorghum/</guid>
       <description>&lt;p&gt;Our laboratory investigates the effects of drought and other abiotic stresses on the microbiomes associated with Sorghum bicolor and other grass species. With the world population expected to reach 9 billion by 2050, it is estimated that the global food supply will need to increase by 70 percent to meet rapidly rising demand.  Changes in the global climate may well compound this challenge, as predicted increases in environmental stresses, such as drought and high-salinity, are expected to reduce crop productivity.  Recent studies demonstrated that microbial symbionts of crop plants are capable of enhancing the abiotic stress tolerance of their host.  However, only a tiny fraction of plant microbiomes have been uncovered and evaluated.  Thus, research and new tools are needed to develop a better understanding of the interrelationship between crop plant abiotic stress tolerance and crop plant microbiomes.&lt;/p&gt;
 
 &lt;p&gt;Additionally, the lab works on developing statistical methods and computational tools based on genome wide association studies (GWAS) that incorporate epigenomic, transcriptomic, and other data types. In addition to offering increasing the statistical power of GWAS analyses, this approach also has the potential to reveal instances where phenotypic variation is not explained by changes in nucleotide sequence, but instead by epigenetic changes (commonly referred to as “missing heritability”).  Additionally, by integrating multiple ‘omics’ datasets, this strategy offers an opportunity to detect correlations among data sets and types and to directly interrogate the complex cascade of signals and forces that leads to phenotype.&lt;/p&gt;
