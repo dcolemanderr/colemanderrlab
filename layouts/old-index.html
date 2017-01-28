@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+    <meta charset="utf-8">
+
+    <base href="{{ .Site.BaseURL }}">
+    <title>{{ .Site.Title }}</title>
+    <link rel="canonical" href="{{ .Permalink }}">
+    <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+
+</head>
+<body lang="en">
+
+hello i am devin's website i don't have any partials
+
+
+<div>
+
+hey there
+
+{{ range .Site.Sections }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{ end }}  
+
+</div>
+
+<div>
+    also hello
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{.URL}}">{{ .Name }}</a>
+        {{ end }}
+</div>
+
+
+what is happening
+
+where is this going
+
+
+
+
+
+
+</body>
